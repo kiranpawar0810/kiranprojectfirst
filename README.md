@@ -1,2 +1,4 @@
 # kiranprojectfirst
-this is practice project
+this is my practice project
+author = kiran jadhav
+
